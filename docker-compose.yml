@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/python.Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: .
+      dockerfile: docker/go.Dockerfile
+    ports:
+      - "82:82"
