@@ -10,7 +10,7 @@ docker-compose up --build -d
 # 效果图
 代码有点问题，主要是在登录/注册页部分，已注册或者密码错误这样的提示信息不会显示。。。
 ## 主页（登陆前）
-![](https://blog.lan1oc.co/img/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/Pasted%20image%2020231212100702.png)
+![](./效果图/Pasted%20image%2020231212100702.png)
 ## 注册/登录页
 咳咳，这是一道[题目所用的网页](https://www.qsnctf.com/challenges#%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0-142)，然后我直接拔下来了。。。。
 ![](https://blog.lan1oc.co/img/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%95%88%E6%9E%9C%E5%9B%BE/Pasted%20image%2020231212100727.png)
